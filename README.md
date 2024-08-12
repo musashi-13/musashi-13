@@ -13,3 +13,4 @@
 * [ ] Discord bot using Python
 * [ ] 8 Ball Pool in Javascript
 * [X] Event Noticeboard using react
+* [ ] VSC extension that delivers a random qoute using [Stoic Qoutes API](https://github.com/tlcheah2/stoic-quote-lambda-public-api)
