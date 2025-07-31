@@ -1,45 +1,26 @@
+### Hi, I'm Karan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <div align="center">
-
-<!--
-HOW TO ADD YOUR IMAGE:
-
-    Create a new folder named assets or images in your GitHub profile repository.
-
-    Upload your image to that folder.
-
-    Get the raw URL of the image. You can do this by navigating to the image file on GitHub and clicking the "Download" or "Raw" button to get the link.
-
-    Replace the src value below with your image's raw URL.
-    -->
-
-<p align="center">
-  <img src="https://www.google.com/search?q=https://your-image-url.com/your-profile-pic.png" alt="Your Name" width="300">
-</p>
+<!-- GitHub Stats -->
+<a href="https://github.com/musashi-13">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=musashi-13&show_icons=true&bg_color=00000000&text_color=777&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=musashi-13&layout=compact&langs_count=6&bg_color=00000000&text_color=777"/>
+</a>
 
 </div>
-💻 Things I Code With
 
-My Primary Loadout
+<p align="center">💻 Things I Work With</p>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=aws,cpp,docker,js,kafka,nextjs,postgres,prisma,py,react,tailwind,ts,vite"/>
+</a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,cpp,docker,js,kafka,nextjs,postgres,prisma,py,react,tailwind,ts,vite)](https://skillicons.dev)
-
-
-
-🔗 Connect with Me
-
-Feel free to reach out. I'm always open to new opportunities and collaborations.
+<p align="center"> Socials</p>
 
 <p align="center">
-<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter">
-</a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-<a href="https://www.google.com/search?q=https://your-portfolio.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-333333%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dwhite" alt="Portfolio">
-</a>
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+<a href="https://www.linkedin.com/in/karanhathwar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/kar.an.__" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/OvOmusashi" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://dev.to/musashi-13" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </p>
