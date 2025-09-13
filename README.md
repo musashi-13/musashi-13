@@ -25,4 +25,6 @@ I like to design and build things.
 <a href="https://twitter.com/OvOmusashi" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FOvOmusashi&style=social&label=OvOmusashi" alt="Twitter"></a>
 <a href="https://dev.to/musashi-13" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </p>
+
+<img src="architect.jpg"/>
 </div>
