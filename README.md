@@ -26,5 +26,5 @@ I like to design and build things.
 <a href="https://dev.to/musashi-13" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </p>
 
-<img src="architect-wide.jpg"/>
+<img src="architect-wide.png"/>
 </div>
